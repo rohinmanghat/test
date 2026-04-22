@@ -1,6 +1,6 @@
 num1=int(input("Enter first number: "))
 num2=int(input("Enter second number: "))
-c=input("Enter the operation you want to perform (+, -, *, /,**): ")
+ch=input("Enter the operation you want to perform (+, -, *, /,**): ")
 if ch == "+":
     print("The sum is: ", num1+num2)
 elif ch == "-":
